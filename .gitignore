@@ -1,3 +1,6 @@
 imgs
 sounds
 .DS_Store
+
+*.zip
+leapGestRecog
